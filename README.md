@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-guelli-465b192a0/)
 [![Website](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-psi-green-76.vercel.app/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/caioguelli)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagiestAce&layout=donut-vertical&theme=transparent&hide_border=true&text_color=0ac740&title_color=0ac740&langs_count=10)](https://github.com/CagiestAce/github-readme-stats)
